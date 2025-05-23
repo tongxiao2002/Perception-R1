@@ -4,7 +4,7 @@
 
 ## Getting Started
 ### Data Preparation
-You can download our data from [Google Drive](https://drive.google.com/), and then put it in the `data` directory.
+You can download our data from [Google Drive](https://drive.google.com/file/d/1Y7x2xWy1QnSqM1SwUHyTyL4f9gFLRQW9/view?usp=sharing), and then put it in the `data` directory.
 
 ### Training
 You should first start a vllm server:
