@@ -16,29 +16,7 @@ ds_collections = {
         'min_new_tokens': 1,
         'split': 'testmini'
     },
-    # 'MathVista_test': {
-    #     'root': 'AI4Math/MathVista',
-    #     'max_new_tokens': 1024,
-    #     'min_new_tokens': 1,
-    #     'split': 'test'
-    # },
 }
-
-# MM_SYSTEM_PROMPT = (
-#     "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. "
-#     "If the question involves an image, the Assistant first preceives and analyzes it within <perception> tags, "
-#     "i.e.: <perception> perception here </perception>. "
-#     "Then the assistant thinks about the reasoning process in the mind and then provides the user with the answer. "
-#     "The reasoning process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, "
-#     "i.e., <think> reasoning process here </think><answer> answer here </answer>."
-# )
-
-# SYSTEM_PROMPT = (
-#     "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant "
-#     "first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning "
-#     "process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., "
-#     "<think> reasoning process here </think><answer> answer here </answer>"
-# )
 
 SYSTEM_PROMPT = (
     "You FIRST think about the reasoning process as an internal monologue and then provide the final answer. "

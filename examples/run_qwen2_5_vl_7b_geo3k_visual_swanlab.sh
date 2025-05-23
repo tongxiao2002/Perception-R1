@@ -14,7 +14,7 @@ export EXPERIMENT_NAME="qwen2_5_vl_7b_geo3k_with_visual_v2_factor_0.7_with_ngram
 export SWANLAB_MODE="local"
 export SWANLAB_DIR="swanlogs/${EXPERIMENT_NAME}"
 
-MODEL_PATH=checkpoints/Qwen2.5-VL-7B-Instruct  # replace it with your local file path
+MODEL_PATH=Qwen/Qwen2.5-VL-7B-Instruct  # replace it with your local file path
 
 SYSTEM_PROMPT="""You FIRST think about the reasoning process as an internal monologue and then provide the final answer.
  The reasoning process MUST BE enclosed within <think> </think> tags, and the answer process MUST BE enclosed within <answer> </answer> tags.

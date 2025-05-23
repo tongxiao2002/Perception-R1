@@ -7,7 +7,7 @@ export VLLM_LOGGING_LEVEL=ERROR
 export OMP_NUM_THREADS=8
 
 
-vllm serve checkpoints/Qwen2.5-32B-Instruct-AWQ \
+vllm serve Qwen/Qwen2.5-32B-Instruct-AWQ \
     --port 16657 \
     --tensor-parallel-size 8 \
     --api-key sk-abc123 \
