@@ -1,10 +1,21 @@
-# Perception-R1
+<div align="center">
+
+# Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward
+
+[Tong Xiao](https://github.com/tongxiao2002), [Xin Xu](https://github.com/XinXU-USTC), Zhenya Huang, Hongyu Gao, Quan Liu, Enhong Chen*
+
+*Corresponding Author
+
+📃[Paper](https://arxiv.org/abs/2506.07218) | 🤗[Dataset](https://huggingface.co/datasets/tongxiao2002/Perception-R1-Dataset) | 🤗[Perception-R1-7B checkpoint](https://huggingface.co/tongxiao2002/Perception-R1-7B)
+
+</div>
 
 ## Overview
+![image](assets/intro.png)
 
 ## Getting Started
 ### Data Preparation
-You can download our data from [Google Drive](https://drive.google.com/file/d/1Y7x2xWy1QnSqM1SwUHyTyL4f9gFLRQW9/view?usp=sharing), and then put it in the `data` directory.
+You can also download the dataset from [Google Drive](https://drive.google.com/file/d/1Y7x2xWy1QnSqM1SwUHyTyL4f9gFLRQW9/view?usp=sharing), and then put it in the `data` directory.
 
 ### Training
 You should first start a vllm server:
