@@ -6,7 +6,7 @@
 
 *Corresponding Author
 
-📃[Paper](https://arxiv.org/abs/2506.07218) | 🤗[Dataset](https://huggingface.co/datasets/tongxiao2002/Perception-R1-Dataset) | 🤗[Perception-R1-7B checkpoint (Comming Soon)](https://huggingface.co/tongxiao2002/Perception-R1-7B)
+📃[Paper](https://arxiv.org/abs/2506.07218) | 🤗[Dataset](https://huggingface.co/datasets/tongxiao2002/Perception-R1-Dataset) | 🤗[Perception-R1-7B checkpoint](https://huggingface.co/tongxiao2002/Perception-R1-7B)
 
 </div>
 
