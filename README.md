@@ -1,6 +1,6 @@
 <div align="center">
 
-# Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via </br> Visual Perception Reward
+# Perception-R1: Advancing Multimodal Reasoning Capabilities of MLLMs via Visual Perception Reward
 
 [Tong Xiao](https://github.com/tongxiao2002), [Xin Xu](https://github.com/XinXU-USTC), Zhenya Huang, Hongyu Gao, Quan Liu, Enhong Chen*
 
