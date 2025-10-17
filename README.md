@@ -71,7 +71,7 @@ Our modifications for incorporating the visual perception reward are primarily i
 If you find our work helps, please consider citing:
 ```plain
 @article{xiao2025advancing,
-  title={Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward},
+  title={Perception-R1: Advancing Multimodal Reasoning Capabilities of MLLMs via Visual Perception Reward},
   author={Tong Xiao and Xin Xu and Zhenya Huang and Hongyu Gao and Quan Liu and Qi Liu and Enhong Chen},
   journal={arXiv preprint arXiv:2506.07218},
   year={2025},
